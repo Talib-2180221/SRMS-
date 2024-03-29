@@ -1,0 +1,9 @@
+Software Name:
+Student record management system(SRMS)
+members:
+muhammad talib usama
+shehroz javed
+Technologies:
+C++ gui based 
+tree sourse
+git github
